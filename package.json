@@ -1,0 +1,26 @@
+{
+  "name": "nextjs-bds-demo",
+  "version": "1.0.0",
+  "description": "A Minimum Next.js Demo Project using Biings Design System",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build",
+    "export": "next export",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "next"
+  ],
+  "author": "Younger Jo <youngerjo@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "biings-ds": "^1.45.2",
+    "next": "^9.5.5",
+    "next-images": "^1.6.0",
+    "react": "^17.0.0-rc.3",
+    "react-dom": "^17.0.0-rc.3"
+  }
+}
