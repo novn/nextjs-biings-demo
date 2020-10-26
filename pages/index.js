@@ -8,7 +8,7 @@ const Page = ({ props }) => {
           <Icon className='level-item' name='biings-care'/>
           <p className='level-item'>Hello, world!</p>
         </div>
-        <hr class='is-visible' />
+        <hr className='is-visible' />
         <div className='level-left'>
           <button className='level-item button is-primary'>Click Me!</button>
         </div>
